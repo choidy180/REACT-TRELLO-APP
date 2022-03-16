@@ -2,7 +2,7 @@
 
 ## 2022-03-14 
 ### createGlobalStyle, DefaultTheme(styled-components),Recoil 세팅 완료<hr>
-### 숫자로 받아야 하는경우 input 기본세팅이 string, 앞에 +를 붙혀서 string입력을 number로 바꿀 수 있다. ex) +"1" -> 1<hr>
+#### 📢 숫자로 받아야 하는경우 input 기본세팅이 string, 앞에 +를 붙혀서 string입력을 number로 바꿀 수 있다. ex) +"1" -> 1<hr>
 ### event.currentTarget.value >> +event.currentTarget.value
 
 ### 🎉selector(options)
