@@ -1,4 +1,4 @@
-# REACT-TRELLO-APP 
+# REACT-TRELLO-APP 🥎
 
 ## 2022-03-14 
 ### createGlobalStyle, DefaultTheme(styled-components),Recoil 세팅 완료<hr>
